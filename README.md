@@ -1,0 +1,2 @@
+# waves_in_tapered_bars
+Supplementary material for a paper Michał K. Kalkowski, Jen M. Muggleton, Emiliano Rustighi, An experimental approach for the determination of axial and flexural wavenumbers in circular exponentially tapered bars, Journal of Sound and Vibration, Volume 390, 3 March 2017, Pages 67-85, ISSN 0022-460X, http://dx.doi.org/10.1016/j.jsv.2016.10.018. (http://www.sciencedirect.com/science/article/pii/S0022460X1630551X)
